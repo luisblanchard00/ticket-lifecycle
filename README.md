@@ -29,26 +29,29 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+![image](https://github.com/user-attachments/assets/065037b1-76b8-4a4c-b345-67d50f85976f)
+
+As a Help Desk Agent, observe the ticket’s properties (Intake)
+	Priority
+	Department
+	SLA
+	Assigned To
+
+Then, Set Properties to the ticket (Assignment) 
+Sev-A (1 hour, 24/7)
+Online Banking Department
+
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+![image](https://github.com/user-attachments/assets/81489e3b-2ae3-4ebb-aebd-a94b9a4acd5e)
+
+ In most ticketing systems there is an email capability so every time you update the ticket, the user gets a copy and they can respond. (Working the Issue)
+ It’s fine to fix things on the spot, but generally speaking, you want to create tickets for EVERYTHING you do.
+
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+![image](https://github.com/user-attachments/assets/3467275a-5d03-4d27-a7d9-bcc18a55d51a)
+
+When the issue is resolved to completion all there is to do is confirm with the end-user and close out the ticket! (Resolution)
+It is always good to follow up with customers if neccessary. 
 <br />
